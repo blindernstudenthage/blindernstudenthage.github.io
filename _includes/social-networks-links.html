@@ -1,16 +1,5 @@
 <ul class="list-inline text-center footer-links">
 
-{%- if site.social-network-links.rss and site.rss-description -%}
-  <li class="list-inline-item">
-    <a href="{{ '/feed.xml' | relative_url }}" title="RSS">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">RSS</span>
-    </a>
-  </li>
-{%- endif -%}
 
 {%- if site.social-network-links.email -%}
   <li class="list-inline-item">
@@ -57,18 +46,6 @@
       </span>
       <span class="sr-only">Telegram</span>
     </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.github -%}
-  <li class="list-inline-item">
-    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">GitHub</span>
-   </a>
   </li>
 {%- endif -%}
 
@@ -275,7 +252,7 @@
     </a>
   </li>
 {%- endif -%}
-  
+
 {%- if site.social-network-links.medium -%}
   <li class="list-inline-item">
     <a href="https://medium.com/@{{ site.social-network-links.medium }}" title="Medium">
@@ -299,7 +276,7 @@
    </a>
   </li>
 {%- endif -%}
-  
+
 {%- if site.social-network-links.discord -%}
   <li class="list-inline-item">
     <a href="https://discord.com/{{ site.social-network-links.discord }}" title="Discord">
@@ -311,7 +288,7 @@
    </a>
   </li>
 {%- endif -%}
-  
+
 {%- if site.social-network-links.kaggle -%}
   <li class="list-inline-item">
     <a href="https://www.kaggle.com/{{ site.social-network-links.kaggle }}" title="Kaggle">
@@ -332,6 +309,19 @@
         <i class="fab fa-hackerrank fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Hackerrank</span>
+   </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.element -%}
+  <li class="list-inline-item">
+    <a href="{{ site.social-network-links.element }}" title="Element">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <img src="/assets/img/element-logo.svg" style="height:2em;vertical-align:top;" alt="element.io logo">
+        <!-- <i class="fas fa-circle fa-stack-2x"></i> -->
+        <!-- <i class="fab fa-github fa-stack-1x fa-inverse"></i> -->
+      </span>
+      <span class="sr-only">Element.io</span>
    </a>
   </li>
 {%- endif -%}
