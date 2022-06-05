@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "mail@blindernstudenthage.no"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: oslostudenthager
+  facebook: blindernstudenthage
   github: blindernstudenthage/blindernstudenthage.github.io
   element: "https://matrix.to/#/!kNYhXEoYqVIlbrsaAe:derhagen.eu"
   googlemaps: "https://goo.gl/maps/q6ZDw2TUcQJvVJWJ7"
