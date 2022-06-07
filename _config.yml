@@ -9,6 +9,7 @@
 title: Blindern Studenthage
 subtitle: &subtitle An open student garden on the Blindern Campus
 
+
 # Your name to show in the footer
 author: Blindern Studenthage
 
@@ -27,7 +28,7 @@ navbar-links:
 avatar: "/assets/img/sio-logo.svg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: truef
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -35,6 +36,8 @@ round-avatar: true
 
 
 # --- Footer social media links --- #
+
+share-img: "/assets/img/studenthage_square.png"
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.

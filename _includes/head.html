@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="fb:pages" content="548021901992780" />
-  
+
   {% capture title %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
@@ -93,6 +93,8 @@
       {%- endif -%}
     {%- elsif page.thumbnail-img -%}
       {{ page.thumbnail-img }}
+    {%- elsif site.share-img -%}
+      {{ site.share-img }}
     {%- elsif site.avatar -%}
       {{ site.avatar }}
     {% endif %}
