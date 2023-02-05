@@ -16,4 +16,4 @@ Everyone is welcome, it's a great opportunity to get to know the garden!
 
 Find the facebook event, here: [https://www.facebook.com/events/696224392290490/](https://www.facebook.com/events/696224392290490/)
 
-If you want to become a member and have a vote, just sign up here beforehand: [https://cloud.blindernstudenthage.no/apps/forms/eRcLPirPMkm32gT8](https://www.facebook.com/events/696224392290490/)
+If you want to become a member and have a vote, just sign up here beforehand: [https://cloud.blindernstudenthage.no/apps/forms/eRcLPirPMkm32gT8](https://cloud.blindernstudenthage.no/apps/forms/eRcLPirPMkm32gT8)
