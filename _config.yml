@@ -19,8 +19,10 @@ navbar-links:
   Find the garden: "where"
   Resources:
     - To-do list: "https://pad.derhagen.eu/studenthage-todo?view"
+    - Project ideas: "https://pad.derhagen.eu/studenthage-ideas?view"
     - Calendar: calendar
     - Cloud: "https://cloud.blindernstudenthage.no/"
+    - Become a member: member
 
 # --- Logo --- #
 
