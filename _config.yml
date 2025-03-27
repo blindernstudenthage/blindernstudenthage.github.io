@@ -17,9 +17,9 @@ author: Blindern Studenthage
 
 navbar-links:
   Student Garden Cloud: "https://cloud.blindernstudenthage.no/"
-  Reinbursement form: "https://cloud.blindernstudenthage.no/apps/forms/s/2Z3kDetMsGt6eHAyWXb2CFna"
   Become a member: "member"
   More:
+    - Reinbursement form: "https://cloud.blindernstudenthage.no/apps/forms/s/2Z3kDetMsGt6eHAyWXb2CFna"
     - To-do list: "https://pad.derhagen.eu/studenthage-todo?view"
     - Project ideas: "https://pad.derhagen.eu/studenthage-ideas?view"
     - Seed list: "https://pad.derhagen.eu/studenthage-seedlist?view"
