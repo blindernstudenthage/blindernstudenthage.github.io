@@ -16,12 +16,11 @@ author: Blindern Studenthage
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Find the garden: "where"
+  Student Garden Cloud: "https://cloud.blindernstudenthage.no/"
+  Reinbursement form: "https://cloud.blindernstudenthage.no/apps/forms/s/2Z3kDetMsGt6eHAyWXb2CFna"
   Become a member: "member"
-  Resources:
+  More:
     - To-do list: "https://pad.derhagen.eu/studenthage-todo?view"
-    - Calendar: calendar
-    - Cloud: "https://cloud.blindernstudenthage.no/"
     - Project ideas: "https://pad.derhagen.eu/studenthage-ideas?view"
     - Seed list: "https://pad.derhagen.eu/studenthage-seedlist?view"
 
